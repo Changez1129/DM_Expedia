@@ -14,7 +14,7 @@
 
 ## 数据分析和可视化
 
-由于此任务的目标是确定客户可能预订的hotel_cluster，因此我们需要查看hotel_cluster分布情况，具体分布情况可视化结果如下：![hotel cluster](./img/hotel cluster.png)
+由于此任务的目标是确定客户可能预订的hotel_cluster，因此我们需要查看hotel_cluster分布情况，具体分布情况可视化结果如下：![hotel cluster](./img/hotel%20cluster.png)
 
 如图所示，分布虽然有些偏斜，但在 100 个不同的类中分布得相对平衡。
 
